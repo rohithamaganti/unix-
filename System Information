@@ -1,0 +1,15 @@
+date
+cal
+uptime
+w
+whoami 
+finger user
+uname -a 
+cat /proc/cpuinfo
+cat /proc/meminfo
+man command 
+df
+du
+free
+whereis app
+which app 
