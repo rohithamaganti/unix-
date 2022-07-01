@@ -1,0 +1,7 @@
+ps 
+top 
+kill pid
+killall proc
+bg
+fg
+fg n 
