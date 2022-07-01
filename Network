@@ -1,0 +1,5 @@
+ping host
+whois domain
+dig -x host
+wget file
+wget -c file
