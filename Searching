@@ -1,0 +1,4 @@
+grep patterns files 
+grep -r pattern dir
+command | grep pattern
+locate file 
