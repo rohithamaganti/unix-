@@ -1,0 +1,3 @@
+ssh user@host 
+ssh -p port user@host 
+ssh-copy-id user@host 
