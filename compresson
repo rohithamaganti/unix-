@@ -1,0 +1,7 @@
+tar cf file.tar files
+tar xf file.tar
+tar czf file.tar.gz
+tar cjf file.tar.bz2
+tar xjf file.tar.bz2
+gzip file
+gzip -d file.gz
