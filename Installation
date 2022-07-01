@@ -1,0 +1,5 @@
+./configuration
+make
+make install
+dpkg -i pkg.deb
+rpm -Uvh pkg.rpm
